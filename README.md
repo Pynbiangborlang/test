@@ -2,9 +2,9 @@
   
   ## **Perquisites**
   
-  Every time you clone this repo or before installing running \`\`npm i\`\`, make sure you have a \`.npmrc\` file in your package folder_.
+  Every time you clone this repo or before installing running npm i, make sure you have a .npmrc file in your package folder_.
   
-  After downloading, paste the \`.npmrc\` file at the root of your package folder.
+  After downloading, paste the .npmrc file at the root of your package folder.
   
   ## **Installation**
   

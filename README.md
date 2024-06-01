@@ -24,14 +24,25 @@
   
   ##**Build and Version**
      - create the feature branch from main
+     
      - make changes
+     
      - commit changes
+     
      - push changes to feature branch
+     
      - Run npm version patch/minor/major accordingly
+     
         \`npm version patch\` for small changes
+        
         \`npm version minor\` for minor changes
+        
         \`npm version major\` for major changes
+        
      - push changes to feature branch
+     
      - \`\`npm run build\`\`
+     
      - npm publish
+     
      - create PR to main

@@ -45,4 +45,4 @@
      
   - npm publish
      
-   - create PR to main
+  - create PR to main
